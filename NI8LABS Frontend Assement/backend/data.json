@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Amit Sharma",
+    "email": "amit.sharma@example.com",
+    "dob": "1988-07-15"
+  },
+  {
+    "id": 2,
+    "name": "Priya Patel",
+    "email": "priya.patel@example.com",
+    "dob": "1991-02-20"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Gupta",
+    "email": "rahul.gupta@example.com",
+    "dob": "1985-11-10"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Rao",
+    "email": "sneha.rao@example.com",
+    "dob": "1994-04-25"
+  },
+  {
+    "id": 5,
+    "name": "Karan Singh",
+    "email": "karan.singh@example.com",
+    "dob": "1989-08-12"
+  },
+  {
+    "id": 6,
+    "name": "Anjali Mehta",
+    "email": "anjali.mehta@example.com",
+    "dob": "1993-03-17"
+  }
+]
