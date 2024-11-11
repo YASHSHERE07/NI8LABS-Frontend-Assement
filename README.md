@@ -24,3 +24,9 @@ A simple user management application built with React, Vite, and Tailwind CSS. T
    ```bash
    git clone https://github.com/YASHSHERE07/NI8LABS-Frontend-Assement.git
    cd NI8LABS-Frontend-Assement
+
+2. **Install frontend and backend dependencies**
+   ```bash
+   cd backend
+   npm install
+
